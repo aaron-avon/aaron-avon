@@ -18,6 +18,4 @@ Using GHA workflows and markscribe templates
 A peek behind the curtain at what I think is useful about certain topics.
 Shorter form, simpler, cheat-sheet type stuff, but you're welcome to it!
 
-<!--
-
--->
+<!-- -->
