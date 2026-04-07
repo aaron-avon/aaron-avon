@@ -1,6 +1,9 @@
-<h1 align="center"> Hello there!👋 I'm Aaron Avon</h1>
-<h3 align="center"> A senior-level IT professional with a passion for CI/CD and observability</h3>
+<h1 style="text-align:center"> Hello there!👋 I'm Aaron Avon</h1>
+<h3 style="text-align:center">A senior-level IT professional with a passion for CI/CD and observability</h3>
 
+---
+
+### About Me
 - SRE with 10+ years of experience across Identity, Payment, Data Analytics and Health industries
 - Focused on Production systems, scalability, automation and observability
 - I believe that deployments should be predictable and metrics should be meaningful
